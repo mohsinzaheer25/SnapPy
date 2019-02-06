@@ -1,4 +1,5 @@
-#SnapPy
+SnapPy
+---
 
 This is a light weight Python code use for replacing your Maven POM Snapshot Version with your github organization and branch name which runs on a Docker Container.
 
