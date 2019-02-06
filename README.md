@@ -3,7 +3,7 @@ SnapPy
 
 This is a light weight Python code use for replacing your Maven POM Snapshot Version with your github organization and branch name which runs on a Docker Container.
 
-I have use Team_foo as organization & Bar as a branch name but, you can replace it according to your organization & branch name in the below line.
+I have use Team_foo as an organization & Bar as a branch name but, you can replace it according to your organization & branch name in the below line.
 
 ```
 newVersion = xml_to_check.replace('SNAPSHOT','ci_Team_Foo_Bar-SNAPSHOT')
